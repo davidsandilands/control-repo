@@ -18,4 +18,4 @@ forge 'https://forge.puppet.com'
 
 mod 'peadm',
   git:     'https://github.com/puppetlabs/puppetlabs-peadm',
-  branch:  'SOLARCH-558'
+  branch:  'SOLARCH-564'
