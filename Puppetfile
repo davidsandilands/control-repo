@@ -5,6 +5,11 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/inifile', '5.0.1'
 #mod 'puppetlabs/stdlib',  '7.0.1'
 #mod 'puppetlabs/concat',  '7.0.1'
+mod 'WhatsARanjit-node_manager', '0.7.5'
+mod 'puppet-format', '1.0.0'
+mod 'puppetlabs-apply_helpers', '0.3.0'
+mod 'puppetlabs-bolt_shim', '0.4.0'
+mod 'puppetlabs-stdlib', '8.1.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
@@ -19,3 +24,5 @@ forge 'https://forge.puppet.com'
 mod 'peadm',
   git:     'https://github.com/puppetlabs/puppetlabs-peadm',
   branch:  'SOLARCH-564'
+
+
