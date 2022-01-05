@@ -9,7 +9,7 @@ mod 'WhatsARanjit-node_manager', '0.7.5'
 mod 'puppet-format', '1.0.0'
 mod 'puppetlabs-apply_helpers', '0.3.0'
 mod 'puppetlabs-bolt_shim', '0.4.0'
-mod 'puppetlabs-stdlib', '7.9.0'
+mod 'puppetlabs-stdlib', '7.1.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
