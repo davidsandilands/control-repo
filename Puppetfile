@@ -23,6 +23,6 @@ mod 'puppetlabs-stdlib', '7.1.0'
 
 mod 'peadm',
   git:     'https://github.com/puppetlabs/puppetlabs-peadm',
-  branch:  'SOLARCH-564'
+  branch:  'SOLARCH-581'
 
 
