@@ -23,6 +23,7 @@ mod 'puppetlabs-stdlib', '7.1.0'
 
 mod 'peadm',
   git:     'https://github.com/puppetlabs/puppetlabs-peadm',
-  branch:  'SOLARCH-581'
+  branch: 'reidmv:backup-iterate'
+#  branch:  'SOLARCH-581'
 
 
