@@ -27,5 +27,5 @@ mod 'peadm',
   branch:  'SOLARCH-581'
 
 mod 'test',
-  git:     'https://github.com/davidsandilands/test'
-
+  git:     'https://github.com/davidsandilands/test',
+  branch:  'main'
