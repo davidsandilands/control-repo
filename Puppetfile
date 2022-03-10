@@ -26,6 +26,6 @@ mod 'peadm',
   git:     'https://github.com/puppetlabs/puppetlabs-peadm',
   branch:  'SOLARCH-581'
 
-mod 'test'
+mod 'test',
   git:     'https://github.com/davidsandilands/test'
 
