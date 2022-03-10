@@ -4,4 +4,4 @@ test::createfile:
   /opt/test1:
     owner: root
     group: root
-    mode:  655
+    mode:  '0655'
