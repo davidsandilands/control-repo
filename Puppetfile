@@ -32,4 +32,4 @@ mod 'test',
 
 mod 'lvm',
   git:     'https://github.com/puppetlabs/puppetlabs-lvm.git',
-  branch:  'main'
+  branch:  'master'
