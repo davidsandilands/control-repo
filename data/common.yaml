@@ -1,2 +1,6 @@
 ---
 message: "This node is using common data"
+test::createfile: /opt/test1
+  owner: user1
+  group: group1
+  perm:  655
