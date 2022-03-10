@@ -4,4 +4,4 @@ test::createfile:
   /opt/test1:
     owner: user1
     group: group1
-    perm:  655
+    mode:  655
