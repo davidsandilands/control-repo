@@ -30,6 +30,6 @@ mod 'test',
   git:     'https://github.com/davidsandilands/test',
   branch:  'main'
 
-mod 'lvm'
+mod 'lvm',
   git:     'https://github.com/puppetlabs/puppetlabs-lvm.git',
   branch:  'main'
